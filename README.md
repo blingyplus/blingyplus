@@ -3,7 +3,7 @@
 - 💪 I'm proficient at PHP & CSS, Javascript. Adobe Suite as well.
 - 🌱 I’m currently learning React .js
 - 💞️ I’m looking to collaborate on building Management systems
-- 📫 How to reach me linktr.ee/blingyplus
+- 📫 How to reach me russelboakye@gmail.com
 
 <!---
 blingyplus/blingyplus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
