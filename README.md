@@ -3,7 +3,7 @@
 Welcome to my GitHub page! I'm Russel D. Boakye, a passionate Graphic Designer and Web Developer with extensive experience in creating visually captivating designs and developing user-friendly websites and web applications.
 
 ## About Me
-With over 4 years of experience, I specialize in utilizing Adobe Creative Suite, Figma, PHP, Laravel, Bootstrap, and Restful API integration to deliver exceptional results. My skillset allows me to bring your vision to life and create unique solutions that meet your specific needs.
+With over 3 years of experience, I specialize in utilizing Adobe Creative Suite, Figma, PHP, Laravel, Bootstrap, and Restful API integration to deliver exceptional results. My skillset allows me to bring your vision to life and create unique solutions that meet your specific needs.
 
 ## Services Offered
 - Graphic Design: Creating visually appealing designs that leave a lasting impression.
