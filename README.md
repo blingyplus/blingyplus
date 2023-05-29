@@ -1,5 +1,3 @@
-I apologize for the mistake. Here's the updated version of your GitHub portfolio with the missing CSS image and the additional languages and tools you requested:
-
 <h1 align="center">Hi 👋, I'm Russel D. Boakye</h1>
 <p align="center">I'm a Web with over 3 years of experience in creating user-friendly websites, graphic designs and web applications using HTML, CSS, JavaScript, Illustrator, Photoshop, Laravel, PHP, Postgres, and Bootstrap.</p>
 
