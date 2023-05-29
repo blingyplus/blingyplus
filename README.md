@@ -10,7 +10,7 @@ Great! Here's an updated version of your GitHub page with your notable projects 
 
 <h3 alignleft">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/russel-boakye-904255/"="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Russel D. Boakye" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/russel-boakye-904255/"="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Russel D. Boakye" height="40" width="40" /></a>
 <a href="https://www.instagram.com/blingyplus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blingyplus" height="30" width="40" /></a>
 </p>
 
