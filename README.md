@@ -6,7 +6,7 @@ Great! Here's an updated version of your GitHub page with your notable projects 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blingyplus&label=Profile%20views&=0e75b6styleflat" alt="blingyplus" /> </p>
 
 - 📫 How to reach me **russboakye@gmail.com**
-- Connect with me on LinkedIn: [Russel (Bling) Boakye](https://www.linkedin.com/in/russel-boakye-904252255/)
+
 
 <h3 alignleft">Connect with me:</h3>
 <p align="left">
