@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Russel D. Boakye</h1>
-<p align="center">I'm a Web Developer with over 3 years of experience in creating user-friendly websites, graphic designs, and web applications using HTML, CSS, JavaScript, Illustrator, Photoshop, Laravel, PHP, Postgres, and Bootstrap.</p>
+<p align="center">I'm a Software Developer with over 3 years of experience in creating user-friendly websites, graphic designs, and web applications using HTML, CSS, JavaScript, Laravel, PHP, Postgres, Bootstrap etc.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blingyplus&label=Profile%20views&=0e75b6styleflat" alt="blingyplus" /> </p>
 
