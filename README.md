@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Russel D. Boakye</h1>
-<p align="center">I'm a Software Developer with about 3 years of experience in creating user-friendly websites, graphic designs, and web applications using HTML, CSS, JavaScript, Laravel, PHP, Postgres, Bootstrap etc.</p>
+<p align="center">I'm a Software Developer with about 3 years of experience in creating user-friendly websites, graphic designs, and web applications using HTML, CSS, JavaScript, PHP, Python, SQL & NoSQL etc.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blingyplus&label=Profile%20views&=0e75b6styleflat" alt="blingyplus" /> </p>
 
@@ -22,9 +22,27 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <!-- MERN Stack Icons -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
 
+  <!-- Django Icon -->
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="django" width="40" height="40"/>
+  </a>
+</p>
 
 ## Notable Projects
-- Vet Hospital Management System: Developed a comprehensive system for managing appointments, patient records, and billing, enhancing efficiency within veterinary practices. [Repository](https://github.com/blingyplus/Vet-Management-System.git)
+- Vet Hospital Management System: Developed a comprehensive system for managing appointments, patient records, and billing, enhancing efficiency within veterinary practices. [Repository](https://github.com/blingyplus/Vet-Management-System)
  
-- Nationwide Agricultural Web Application (ongoing): Building a centralized platform for farmers, suppliers, and industry professionals to access vital information, resources, and foster collaboration. 
+- Nationwide Agricultural Web Application: Built a centralized platform for farmers, suppliers, and industry professionals to access vital information, resources and foster collaboration. 
