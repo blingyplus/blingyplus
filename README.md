@@ -42,6 +42,17 @@
   </a>
 </p>
 
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blingyplus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blingyplus&exclude_repo=github-readme-stats,blingyplus.github.io&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blingyplus" alt="blingyplus" />
+</p>
+
 ## Notable Projects
 - Vet Hospital Management System: Developed a comprehensive system for managing appointments, patient records, and billing, enhancing efficiency within veterinary practices. [Repository](https://github.com/blingyplus/Vet-Management-System)
  
