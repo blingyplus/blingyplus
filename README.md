@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **russelboakye@gmail.com**
 
-- 🌱 I’m currently learning ** Golang and DevOps**
+- 🌱 I’m currently learning **Golang and DevOps**
 
 - 💻 I’m interested in **creating software-based solutions for enterprises and the world at large**
 
