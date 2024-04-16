@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **russelboakye@gmail.com**
 
-- 🌱 I’m currently learning **Python, Go, and DevOps**
+- 🌱 I’m currently learning ** Golang and DevOps**
 
-- 💻 I’m interested in **creating software solutions for enterprises and the world at large**
+- 💻 I’m interested in **creating software-based solutions for enterprises and the world at large**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +20,7 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"> </a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="40" height="40"/> </a>
+<!-- <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="40" height="40"/> </a> -->
 </p>
 
 <h3 align="left">Frameworks/ Lib:</h3>
@@ -57,5 +57,5 @@
 
 ## Notable Projects
 - Vet Hospital Management System: Developed a comprehensive system for managing appointments, patient records, and billing, enhancing efficiency within veterinary practices. [Repository](https://github.com/blingyplus/Vet-Management-System)
- 
-- Nationwide Agricultural Web Application: Built a centralized platform for farmers, suppliers, and industry professionals to access vital information, resources and foster collaboration. 
+- Agermax Performer Booking Platform: A web app for booking performs and managing finances. Built with Node.js + Expressjs and Next.js. (frontend) [Website](https://app.agermax.com)
+- Nationwide Agricultural Web Application (e-adapp): Built a centralized platform for farmers, suppliers, and industry professionals to access vital information, resources and foster collaboration. 
