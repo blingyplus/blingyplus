@@ -57,5 +57,5 @@
 
 ## Notable Projects
 - Vet Hospital Management System: Developed a comprehensive system for managing appointments, patient records, and billing, enhancing efficiency within veterinary practices. [Repository](https://github.com/blingyplus/Vet-Management-System)
-- Agermax Performer Booking Platform: A web app for booking performs and managing finances. Built with Node.js + Expressjs and Next.js. (frontend) [Website](https://agermax.com)
-- Nationwide Agricultural Web Application (e-adapp): Built a centralized platform for farmers, suppliers, and industry professionals to access vital information, resources and foster collaboration. 
+- Agermax Performer Booking Platform: A web app for booking performs and managing finances. Built with Node.js + Expressjs and Next.js. [Website](https://agermax.com)
+- Nationwide Agricultural Web Application (e-adapp): Built a centralized platform for farmers, suppliers, and industry professionals to access vital information, and resources to foster collaboration. 
