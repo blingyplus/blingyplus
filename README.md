@@ -19,15 +19,16 @@
 <p align="left"> 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"> </a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="40" height="40"/> </a> &nbsp;
 <!-- <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="40" height="40"/> </a> -->
 </p>
 
 <h3 align="left">Frameworks/ Lib:</h3>
 <p align="left"> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5666b7055fe37bfb0248768d36aa30e5af283cfbabf9ec879f96d6ba576d1929/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c61726176656c2f6c61726176656c2d69636f6e2e737667" alt="laravel" width="40" height="40"> </a> &nbsp;
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9a/20190820171149%21Laravel.svg" alt="laravel" width="40" height="40"> </a> &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> &nbsp;
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
 </p>
 
@@ -56,6 +57,7 @@
 </p>
 
 ## Notable Projects
-- Vet Hospital Management System: Developed a comprehensive system for managing appointments, patient records, and billing, enhancing efficiency within veterinary practices. [Repository](https://github.com/blingyplus/Vet-Management-System)
-- Agermax Performer Booking Platform: A web app for booking performs and managing finances. Built with Node.js + Expressjs and Next.js. [Website](https://agermax.com)
+- Vet Hospital Management System: Developed a comprehensive system for managing appointments, patient records, etc, enhancing efficiency within veterinary practices. [Repo](https://github.com/blingyplus/Vet-Management-System)
+- Agermax Performer Booking Platform: A web app for booking performs and managing finances. [Website](https://agermax.com).
+- Ancient Mall: A multi-tenant e-commerce software for both web and mobile. [Website](https://ancientsmall.com).
 - Nationwide Agricultural Web Application (e-adapp): Built a centralized platform for farmers, suppliers, and industry professionals to access vital information, and resources to foster collaboration. 
